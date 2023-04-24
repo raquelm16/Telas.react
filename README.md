@@ -1,2 +1,5 @@
 <br>
-<li> Google
+
+- [x] Google
+- [x] Skoob 
+- [ ] Duolingo
